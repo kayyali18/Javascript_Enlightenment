@@ -11,6 +11,8 @@ They have their own equivalent wrapper objects
 
 See **everything_is_an_object**
 
+Note: _Everyting in Javascript can act like an object but primitives are not unless treated as such_
+
 ## Methods
 
 Properties that contain a function object
