@@ -23,5 +23,5 @@ This also allows us to set up prototypal inheritance for all our instances
 
 ## Native Object Constructors
 
-Construct objects and provide primitive values for _string_ _number_ _boolean_ depending on how they're expressed (directly vs instantiated), giving JS its flexibility.
+Construct objects and provide primitive values for _string_ _number_ _boolean_ depending on how they're expressed (literally vs instantiated), giving JS its flexibility.
 Referred to as global objects but not the same as the _window_ global object
